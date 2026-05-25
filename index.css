@@ -1,0 +1,1402 @@
+.box1 {
+  background-color: rgb(216, 131, 4);
+  width: 1425px;
+  height: 140px;
+  padding: 34px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+    
+}
+
+.logo {
+    width: 110px;
+    height: auto;
+}
+
+.mineoverskrift h1{
+    width: 120px;
+    margin-left: -190px;
+    font-size: 50px;
+    padding-top: -55px;
+    line-height: 1;
+}
+
+
+
+.underfooter{
+    background-color: rgb(216, 131, 4);
+    width: 1380px;
+    padding: 30px;
+    margin-top: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.menu {
+    display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding-left: 220px;
+  
+  
+}
+
+
+.menu a {
+    color: black;
+    text-decoration: none;
+     font-size: 20px;
+     font-family: Arial, sans-serif;
+     font-weight: bold;
+     margin-left: 70px;
+     
+    
+}
+
+
+
+.overskrifttilforsiden h1{
+    font-size: 32px;
+    margin-left: 80px;
+    margin-top: 40px;
+   
+}
+
+
+.underskrifttilforsiden{
+    text-align: center;
+    margin-top: -170px;
+}
+
+.underskrifttilforsiden h1{
+    font-size: 35px;
+    margin: 0;
+}
+
+
+.Kontaktmig h1{
+font-size: 20px;
+margin-left: 120px;
+padding-top: 40px;
+}
+
+.Kontaktmig p{
+  margin-left: 130px;
+  margin-right: 590px;
+  padding-top: 20px;
+  
+  
+}
+
+
+
+.Følgmig h1{
+ font-size: 20px;
+margin-left: 920px;
+margin-top: -165px;
+
+
+}
+
+
+.Følgmig p{
+  margin-left: 920px;
+  margin-right: 390px;
+  margin-top: -20px;
+
+
+}
+
+
+
+
+.instagramlogo1{ 
+    width: 30px;
+    margin-left: 929px;
+    margin-top: 10px;
+    
+}
+
+
+
+
+
+.Tankeboble1 {
+  width: 360px;
+  margin-top:80px;  
+  padding-left: 130px;
+  
+}
+
+
+.Tankeboble2 {
+  width: 360px;
+  margin-top: -190px; 
+  margin-right: 400px;
+}
+
+.Tankeboble3 {
+ width: 360px;
+ margin-top: -360px;
+ margin-left: 490px;
+  
+  
+  
+}
+
+
+.boble1 p{
+ position: absolute;
+  top: 200px;
+  left: 190px;
+ width: 200px;
+ font-size: 13px;
+
+    
+}
+
+.boble2 p{
+position: absolute;
+ top: -80px;
+ left: 50px;
+ width: 230px;
+ font-size: 13px;
+
+}
+
+
+.boble3 p{
+    position: absolute;
+    top: -260px;
+  left: 540px;
+   width: 240px;
+   font-size: 13px;
+ 
+}
+
+
+.boble1 {
+
+    position: relative;
+}
+
+
+.boble1 h5 {
+    position: absolute;
+    top: 150px;
+    font-size: 16px;
+    margin-left: 180px;
+}
+
+.boble2 {
+
+    position: relative;
+}
+
+.boble2 h5 {
+     position: absolute;
+    top: -120px;
+    font-size: 16px;
+    margin-left: 50px;
+}
+
+
+.boble3 {
+
+    position: relative;
+}
+
+.boble3 h5 {
+     position: absolute;
+    top: -290px;
+    font-size: 16px;
+    margin-left: 550px;
+    
+}
+
+
+.textommigselv h1{
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 40px;
+
+}
+
+.textommineprojekter h1{
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 40px;
+
+}
+
+
+
+.textkontakt h1{
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+
+
+
+.oplysningommig{
+    width: 745px;
+    background-color: white;
+    border: 3px solid rgb(216, 131, 4);
+    border-radius: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.oplysningommig h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 15px;
+   margin-right: 570px;
+}
+
+.oplysningommig p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    font-size: 12px;
+    text-align: left;
+    margin-top: -10px;
+    margin-left: 5px;
+}
+
+
+
+.oplysningommig2{
+    width: 745px;
+    background-color: white;
+    border: 3px solid rgb(216, 131, 4);
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.oplysningommig2 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+   margin-right: 446px;
+}
+
+.oplysningommig2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    font-size: 12px;
+    text-align: left;
+    margin-top: -20px;
+}
+
+
+.oplysningommig3{
+     width: 745px;
+    background-color: white;
+    border: 3px solid rgb(216, 131, 4);
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.oplysningommig3 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-right: 546px;
+
+}
+
+.oplysningommig3 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    font-size: 12px;
+    text-align: left;
+    margin-top: -20px;
+}
+
+
+
+
+.oplysningommig4{
+    width: 745px;
+    background-color: white;
+    border: 3px solid rgb(216, 131, 4);
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.oplysningommig4 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+   margin-right: 620px;
+}
+
+.oplysningommig4 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    font-size: 12px;
+    text-align: left;
+    margin-top: -20px;
+
+}
+
+
+
+.oplysningommig5{
+    width: 745px;
+    background-color: white;
+    border: 3px solid rgb(216, 131, 4);
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.oplysningommig5 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+   margin-right: 620px;
+}
+
+.oplysningommig5 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    font-size: 12px;
+    text-align: left;
+    margin-top: -20px;
+   
+}
+
+
+
+.billedeafmig1{
+    width: 220px;
+    margin-left: 70px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: 6px solid rgb(216, 131, 4);
+}
+
+
+
+.OMMINPORTFOLIO p {
+  font-family: Helvetica, sans-serif; 
+  font-size: 14px;
+  line-height: 1.2;
+  color: #333;
+  font-weight: 300px;
+  padding-top: -53px;
+  margin-left: 30px;
+  width: 1100px;
+  
+}
+
+
+
+
+.nyheder1{
+    width: 180px;
+    border-radius: 15px;
+    transition: 0.3s;
+     border: 3px solid rgb(216, 131, 4);
+     margin-left: 120px;
+}
+
+.nyheder1:hover{
+    transform: scale(1.3);
+}
+
+
+
+
+.figma p{
+    margin-top: 23px;
+    font-size: 13px;
+    line-height: 1.2;
+    margin-left: 115px;
+    font-family: Helvetica, sans-serif;
+    width: 330px;
+    
+
+}
+
+
+.nøglering1{
+    width: 100px;
+    border-radius: 12px;
+    transition: 0.3s;
+     border: 3px solid rgb(216, 131, 4);
+}
+
+.nøglering1:hover{
+    transform: scale(1.1);
+}
+
+.FABlab{
+    position: relative;
+    margin-left: 170px;
+    margin-top: 30px;
+    width: 250px;
+
+   
+}
+
+.FABlab p{
+    position: relative;
+    margin-top: 20px;
+    font-size: 13px;
+    line-height: 1.2;
+    margin-left: -100px;
+    font-family: Helvetica, sans-serif;
+}
+
+
+.illustratordesign{
+    width: 150px;
+    margin-left: 570px;
+  
+   
+}
+
+.billede2{
+    width: 130px;
+    border-radius: 15px;
+    transition: 0.3s;
+     border: 3px solid rgb(216, 131, 4);
+     margin-top: -490px;
+    
+    
+  
+}
+
+.billede2:hover{
+    transform: scale(1.3);
+   
+}
+
+.illustratordesign p{
+    margin-top: -340px;
+    font-size: 13px;
+    line-height: 1.2;
+   margin-left: 4px;
+   font-family: Helvetica, sans-serif;
+   width: 330px;
+    
+}
+
+.tekst1{
+    width: 180px;
+    border-radius: 15px;
+    transition: 0.3s;
+     border: 3px solid rgb(216, 131, 4);
+     margin-top: -20px;
+   
+}
+
+.tekst1:hover{
+    transform: scale(1.3);
+}
+
+.arbejdemedtekst p{
+    margin-top: 20px;
+    font-size: 13px;
+    line-height: 1.2;
+    font-family: Helvetica, sans-serif;
+}
+
+.video-projekt{
+    margin-left: 550px;
+    margin-top: -230px;
+    width: 200px;
+     
+}
+
+.video-projekt video{
+    width: 200px;
+    border-radius: 15px;
+     border: 3px solid rgb(216, 131, 4);
+}
+
+.video-projekt p{
+    margin-top: 15px;
+    font-size: 13px;
+    line-height: 1.2;
+    margin-left: -40px;
+    font-family: Helvetica, sans-serif;
+}
+
+
+.video-projekt1{
+    margin-left: 980px;
+    margin-top: -420px;
+    width: 200px;
+}
+
+.video-projekt1 video{
+    width: 200px;
+    border-radius: 15px;
+    margin-top: 220px;
+     border: 3px solid rgb(216, 131, 4);
+}
+
+.video-projekt1 p{
+    margin-top: 15px;
+    font-size: 13px;
+    line-height: 1.2;
+    margin-left: -38px;
+    font-family: Helvetica, sans-serif;
+}
+
+
+
+.arbejdemedtekst{
+    margin-left: 120px;
+    margin-top: -450px;
+    width: 250px;
+    margin-left: 1000px;
+}
+
+
+
+.billedekontakt {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-right: 689px;
+
+
+}
+
+.billedekontakt1 {
+    width: 350px;
+    height: auto;
+    border-radius: 12px;
+    
+}
+
+
+
+.contact-form {
+    width: 500px;
+    padding: 30px;
+    background: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: absolute;
+    top: 490px;
+    right: 120px;
+    border: 3px solid rgb(216, 131, 4);
+   
+   
+}
+
+
+
+h1 {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.name-box {
+    display: flex;
+    gap: 20px;
+}
+
+.name-box input {
+    width: 240px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+textarea {
+    height: 120px;
+    resize: none;
+}
+
+button {
+    margin-top: 25px;
+    background: rgb(216, 131, 4);
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+   
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+
+
+
+
+@media (max-width: 768px) {
+
+.box1{
+    width: 375px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo{
+   width: 90px;
+    
+}
+
+.mineoverskrift h1{
+    font-size: 28px;
+    text-align: center;
+    margin-top: 0;
+    margin-right: 0;
+}
+
+
+
+.menu{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+gap:10px;
+margin:10px 0;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    white-space: nowrap;
+    
+}
+
+.overskrifttilforsiden h1{
+    font-size: 50px;
+    margin-top: 20px;
+   margin-left: 130px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.underfooter{
+    background-color: rgb(216, 131, 4);
+    width: 1380px;
+    padding: 30px;
+    margin-top: 1045px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+
+.underskrifttilforsiden{
+    text-align: center;
+    margin-top: -30px;
+}
+
+.underskrifttilforsiden h1{
+    font-size: 35px;
+    margin-left: -270px;
+    margin-top: 10px;
+}
+
+
+
+
+
+.Tankeboble1{
+
+    width:180px;
+    margin:0 auto;
+    padding-left:0;
+}
+
+
+.Tankeboble2{
+
+    width:180px;
+    margin:0 auto;
+    padding-left:0;
+}
+
+
+.Tankeboble3{
+
+    width:180px;
+    margin:0 auto;
+    padding-left:0;
+}
+
+.boble1{
+    position: static;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin:20px auto;
+}
+
+
+.boble2{
+    position: static;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin:20px auto;
+}
+.boble3{
+    position: static;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin:20px auto;
+}
+
+.boble1 h5{
+    position:absolute;
+    font-size:12px;
+    margin:0;
+    top:40px;
+    left:50px;
+}
+
+
+
+.boble2 h5{
+    position:absolute;
+    font-size:12px;
+    margin:0;
+    top:40px;
+    left:50px;
+}
+
+
+.boble3 h5{
+    position:absolute;
+    font-size:12px;
+    margin:0;
+    top:40px;
+    left:50px;
+
+}
+
+.boble1 p{
+    position:absolute;
+    width:110px;
+    font-size:8px;
+    line-height:1.3;
+    top:65px;
+    left:35px;
+}
+.boble2 p{
+    position:absolute;
+    width:110px;
+    font-size:8px;
+    line-height:1.3;
+    top:65px;
+    left:35px;
+}
+.boble3 p{
+    position:absolute;
+    width:110px;
+    font-size:8px;
+    line-height:1.3;
+    top:65px;
+    left:35px;
+}
+
+
+
+
+
+.textkontakt h1{
+    font-size: 30px;
+    margin-right: 190px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.oplysningommig{
+    width: 345px;
+    background-color: white;
+    border: 3px solid rgb(216, 131, 4);
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+     margin-left: 25px;
+    margin-top: 25px;
+}
+
+.oplysningommig h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+     text-align: center;
+    margin-bottom: 15px;
+    margin-right: 150px;
+}
+
+.oplysningommig p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    font-size: 12px;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+
+
+.oplysningommig2{
+    width: 345px;
+    background-color: white;
+    border: 3px solid rgb(216, 131, 4);
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+     margin-left: 25px;
+    margin-top: 25px;
+}
+
+.oplysningommig2 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+     text-align: center;
+    margin-bottom: 15px;
+    margin-right: 39px;
+}
+
+.oplysningommig2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    font-size: 12px;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+
+.oplysningommig3{
+    width: 345px;
+    background-color: white;
+    border: 3px solid rgb(216, 131, 4);
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+     margin-left: 25px;
+    margin-top: 25px;
+}
+
+.oplysningommig3 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+     text-align: center;
+    margin-bottom: 15px;
+    margin-right: 135px;
+}
+
+.oplysningommig3 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    font-size: 12px;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+
+
+.oplysningommig4{
+    width: 345px;
+    background-color: white;
+    border: 3px solid rgb(216, 131, 4);
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+     margin-left: 25px;
+    margin-top: 25px;
+}
+
+.oplysningommig4 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+     text-align: center;
+    margin-bottom: 15px;
+    margin-right: 165px;
+}
+
+.oplysningommig4 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    font-size: 12px;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+
+
+
+.oplysningommig5{
+    width: 345px;
+    background-color: white;
+    border: 3px solid rgb(216, 131, 4);
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+     margin-left: 25px;
+    margin-top: 25px;
+}
+
+.oplysningommig5 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+     text-align: center;
+    margin-bottom: 15px;
+    margin-right: 185px;
+}
+
+.oplysningommig5 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    font-size: 12px;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+
+
+.billedeafmig1{
+    width: 220px;
+    margin-left: 70px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: 6px solid rgb(216, 131, 4);
+}
+
+
+
+
+.overskrifttilforsiden h1{
+    font-size: 32px;
+    line-height: 1.1;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.textommigselv h1{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-right: 380px;
+}
+
+.textommineprojekter h1{
+    font-size: 30px;
+     margin-top: 20px;
+    text-align: center;
+    margin-right: 250px;
+}
+
+
+.OMMINPORTFOLIO p {
+  font-family: Helvetica, sans-serif; 
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333;
+  padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 590px;
+  text-align: center;
+  
+}
+
+.nyheder1{
+    width: 170px;
+    border-radius: 15px;
+    transition: 0.3s;
+     border: 3px solid rgb(216, 131, 4);
+     margin-left: 66px;
+     display: block;
+}
+
+.nyheder1:hover{
+    transform: scale(1.1);
+}
+
+
+
+.figma p{
+    margin-top: 20px;
+    font-size: 13px;
+    line-height: 1.5;
+    margin-left: 10px;
+    font-family: Helvetica, sans-serif;
+   width: 330px;
+    text-align: center;
+    
+
+}
+
+
+.nøglering1{
+   width: 130px;
+    border-radius: 12px;
+    transition: 0.3s;
+    margin-left: -160px;
+    display: block;
+     border: 3px solid rgb(216, 131, 4);
+}
+
+.nøglering1:hover{
+    transform: scale(1.1);
+}
+
+
+.FABlab{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 170px;
+    
+   
+}
+
+.FABlab p{
+    position: relative;
+    margin-top: 20px;
+    font-size: 13px;
+    line-height: 1.5;
+    margin-left: -220px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    width: 320px;
+}
+
+
+.illustratordesign{
+    width: 170px;
+    margin-top: -570px;
+    margin-left: 430px;
+   
+}
+
+.billede2{
+   width: 130px;
+    border-radius: 15px;
+     border: 3px solid rgb(216, 131, 4);
+    display: block;
+
+ 
+     
+    
+    
+    
+  
+}
+
+.billede2:hover{
+    transform: scale(1.1);
+   
+}
+
+.illustratordesign p{
+    margin-top: 20px;
+    font-size: 13px;
+    line-height: 1.5;
+   margin-left: -60px;
+   font-family: Helvetica, sans-serif;
+   width: 270px;
+   text-align: center;
+    
+}
+
+
+.video-projekt{
+    margin-left: 390px;
+    margin-top: 50px;
+    width: 150px;
+     
+}
+
+.video-projekt video{
+   width: 170px;
+    border-radius: 15px;
+     border: 3px solid rgb(216, 131, 4);
+}
+
+.video-projekt p{
+    margin-top: 15px;
+    font-size: 13px;
+    line-height: 1.5;
+    margin-left: -35px;
+    margin-right: -40px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+
+
+.video-projekt1{
+    margin-left: 390px;
+    margin-top: 30px;
+    width: 170px;
+}
+
+.video-projekt1 video{
+    width: 170px;
+    border-radius: 15px;
+    border: 3px solid rgb(216, 131, 4);
+}
+
+.video-projekt1 p{
+    margin-top: 15px;
+    font-size: 13px;
+    line-height: 1.5;
+    margin-left: -35px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+
+
+
+.arbejdemedtekst{
+    margin-left: 55px;
+    margin-top:-190px;
+    width: 170px;
+}
+
+.tekst1{
+    width: 170px;
+     border-radius: 15px;
+    transition: 0.3s;
+    border: 3px solid rgb(216, 131, 4);
+    display: block;
+
+}
+
+.tekst1:hover{
+    transform: scale(1.1);
+}
+
+.arbejdemedtekst p{
+    margin-top:15px;
+    font-size: 13px;
+    line-height: 1.5;
+    margin-left: -30px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    width: 220px;
+}
+
+
+
+.billedekontakt{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-right: 390px;
+}
+
+.billedekontakt1{
+    width: 200px;
+    border-radius: 12px;
+}
+
+
+
+ .contact-form {
+        width: 380px;
+        position: static;
+        margin-left: 250px;
+        padding: 20px;
+        border-radius: 20px;
+        border: 2px solid rgb (216,131,4);
+        box-sizing: border-box;
+    }
+
+
+ .name-box {
+        flex-direction: column;
+        display: flex;
+        gap: 10px;
+    }
+
+
+
+
+.name-box input {
+    width: 330px;
+
+}
+
+
+input,
+textarea {
+    width: 330px;
+    box-sizing: border-box;
+    
+    
+}
+
+
+
+h1 {
+    font-size: 18px;
+    text-align: center;
+    margin-right: -18px;
+
+}
+
+
+label {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+
+
+
+textarea {
+    height: 100px;
+    resize: none;
+}
+
+button {
+    margin-top: 25px;
+    background: rgb(216, 131, 4);
+    color: rgba(249, 245, 245, 0.846);
+    border: none;
+    padding: 12px 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 160px;
+   
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+
+
+
+
+.Kontaktmig{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Kontaktmig h1{
+    font-size: 18px;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.Kontaktmig p{
+    font-size: 14px;
+    margin: 8px 0;
+    padding-top: 0;
+}
+
+.Følgmig{
+    text-align: center;
+    top: -95px;
+    left: 250px;
+    position: relative;
+}
+
+.Følgmig h1{
+    font-size: 18px;
+    margin: 0;
+}
+
+.Følgmig p{
+    font-size: 14px;
+    margin: 10px 0;
+}
+
+.instagramlogo1{ 
+    width: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     margin-top: 10px;
+}
+
+
+
+}
