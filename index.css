@@ -79,15 +79,16 @@
 }
 
 .Kontaktmig p {
-	margin-left: 130px;
+	margin-left: 120px;
 	margin-right: 590px;
-	padding-top: 20px;
+	padding-top: 0px;
 }
+
 
 .Følgmig h1 {
 	font-size: 20px;
 	margin-left: 920px;
-	margin-top: -165px;
+	margin-top: -125px;
 }
 
 .Følgmig p {
@@ -682,8 +683,8 @@ button:hover {
 	.tankeboble1,
 	.tankeboble2,
 	.tankeboble3 {
-		width: 100%;
-		max-width: 300px;
+		width: 200px;
+		max-width: 200px;
 		margin: 0 auto;
 	}
 
