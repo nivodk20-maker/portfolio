@@ -14,7 +14,7 @@
 	height: auto;
 }
 
-.mineoverskrift h1 {
+.mineOverskrift h1 {
 	width: 120px;
 	margin-left: -190px;
 	font-size: 50px;
@@ -408,15 +408,19 @@
 
 .illustratordesign {
 	width: 150px;
-	margin-left: 570px;
+    margin-left: 580px;
+    position: relative;
+    top: -350px;
+	
+	
 }
 
 .billede2 {
-	width: 130px;
+	width: 120px;
 	border-radius: 15px;
 	transition: 0.3s;
 	border: 3px solid rgb(216, 131, 4);
-	margin-top: -490px;
+	margin-top: -900px;
 }
 
 .billede2:hover {
@@ -424,10 +428,10 @@
 }
 
 .illustratordesign p {
-	margin-top: -340px;
+	margin-top: 24px;
 	font-size: 13px;
 	line-height: 1.2;
-	margin-left: 4px;
+	margin-left: -79px;
 	font-family: Helvetica, sans-serif;
 	width: 330px;
 }
@@ -437,7 +441,8 @@
 	border-radius: 15px;
 	transition: 0.3s;
 	border: 3px solid rgb(216, 131, 4);
-	margin-top: -20px;
+	margin-top: 20px;
+	
 }
 
 .tekst1:hover {
@@ -453,7 +458,7 @@
 
 .video-projekt {
 	margin-left: 550px;
-	margin-top: -230px;
+	margin-top: -340px;
 	width: 200px;
 }
 
